@@ -7,12 +7,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="hospital-common" />
+        <module name="hospital-front" />
+        <module name="hospital-html" />
         <module name="hospital-redis" />
         <module name="hospital-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="hospital-common" target="1.8" />
+      <module name="hospital-front" target="1.8" />
+      <module name="hospital-html" target="1.8" />
       <module name="hospital-redis" target="1.8" />
       <module name="hospital-server" target="1.8" />
       <module name="zookeeper-demo" target="1.8" />

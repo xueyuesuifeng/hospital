@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/hospital.iml" filepath="$PROJECT_DIR$/.idea/hospital.iml" />
       <module fileurl="file://$PROJECT_DIR$/hospital-common/hospital-common.iml" filepath="$PROJECT_DIR$/hospital-common/hospital-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hospital-front/hospital-front.iml" filepath="$PROJECT_DIR$/hospital-front/hospital-front.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hospital-html/hospital-html.iml" filepath="$PROJECT_DIR$/hospital-html/hospital-html.iml" />
       <module fileurl="file://$PROJECT_DIR$/hospital-redis/hospital-redis.iml" filepath="$PROJECT_DIR$/hospital-redis/hospital-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/hospital-server/hospital-server.iml" filepath="$PROJECT_DIR$/hospital-server/hospital-server.iml" />
     </modules>

@@ -9,7 +9,10 @@
         <option value="$PROJECT_DIR$/hospital-common/pom.xml" />
         <option value="$PROJECT_DIR$/hospital-redis/pom.xml" />
         <option value="$PROJECT_DIR$/hospital-server/pom.xml" />
+        <option value="$PROJECT_DIR$/hospital-front/pom.xml" />
+        <option value="$PROJECT_DIR$/hospital-html/pom.xml" />
       </list>
     </option>
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>
